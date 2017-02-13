@@ -1,6 +1,6 @@
 Welcome To GIT!!
-Change 1
+change 1
 
-Change 2
+change 2
 
-Change 3
+change 3
